@@ -58,6 +58,7 @@ Koniecznie przeczytaj przed egzaminem
 * [AWS re:invent 2017: Best Practices for Implementing AWS Key Management Service (SID330)](https://www.youtube.com/watch?v=X1eZjXQ55ec)
 * [AWS re:Invent 2017: A Deep Dive into AWS Encryption Services (SID329)](https://www.youtube.com/watch?v=gTZgxsCTfbk)
 * [Encryption and Key Management in AWS](https://www.youtube.com/watch?v=uhXalpNzPU4)
+* [Dobre podsumowanie serwisów](https://jayendrapatil.com/aws-certification-security-identity-services-cheat-sheet)
 
 
 ### Praktyczne wskazówki odnośnie samego egzaminu
